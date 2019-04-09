@@ -1,0 +1,17 @@
+2019-04-08 16:48:44,736 - layer1-logger - INFO - Begin for GA to find a structure and initialized weight
+2019-04-08 16:50:03,478 - layer1-logger - INFO - Begin for GA to find a structure and initialized weight
+2019-04-08 17:08:28,894 - layer1-logger - INFO - Begin for GA to find a structure and initialized weight
+2019-04-08 17:09:08,897 - layer1-logger - INFO - Begin for GA to find a structure and initialized weight
+2019-04-08 17:33:33,851 - layer1-logger - INFO - Begin for GA to find a structure and initialized weight
+2019-04-08 17:56:57,882 - layer1-logger - INFO - Begin for GA to find a structure and initialized weight
+2019-04-08 17:59:08,797 - layer1-logger - INFO - Begin for GA to find a structure and initialized weight
+2019-04-08 18:00:07,481 - layer1-logger - INFO - Begin for GA to find a structure and initialized weight
+2019-04-08 18:01:59,278 - layer1-logger - INFO - Begin for GA to find a structure and initialized weight
+2019-04-08 18:02:42,722 - layer1-logger - INFO - Begin for GA to find a structure and initialized weight
+2019-04-08 18:03:53,115 - layer1-logger - INFO - Begin for GA to find a structure and initialized weight
+2019-04-08 18:04:27,479 - layer1-logger - INFO - Begin for GA to find a structure and initialized weight
+2019-04-08 18:05:43,280 - layer1-logger - INFO - Begin for GA to find a structure and initialized weight
+2019-04-08 18:06:15,527 - layer1-logger - INFO - Begin for GA to find a structure and initialized weight
+2019-04-08 18:07:30,042 - layer1-logger - INFO - Begin for GA to find a structure and initialized weight
+2019-04-08 18:08:31,368 - layer1-logger - INFO - Begin for GA to find a structure and initialized weight
+2019-04-08 18:08:39,193 - layer1-logger - INFO - Begin for GA to find a structure and initialized weight
